@@ -21,7 +21,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 ## Step 4: Add branch protections
 
-_Great job uploading test reports! :partying_face:_
+*Great job uploading test reports! :partying_face:*
 
 Take a look at the merge box, you'll notice you can merge this even though the review process hasn't been met.
 
@@ -36,7 +36,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
 1. Check **Require status checks to pass before merging**.
 1. Check all build and test jobs that you'd like to see in the newly visible gray box.
 1. Click **Create**.
-1. _Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the next step on your own._
+1. *Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the next step on your own.*
 
 <!-- Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step. -->
 
